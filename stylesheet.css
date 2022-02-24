@@ -1,0 +1,5 @@
+.logo {
+    background-image: url("ggb.jpg");
+    filter: blur();
+    -webkit-filter: blur(8px);
+}
