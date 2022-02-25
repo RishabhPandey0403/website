@@ -1,0 +1,20 @@
+header {
+    background-image: linear-gradient(to bottom right, rgb(226, 149, 120), rgb(255,221,210))
+}
+
+
+
+.intro img {
+    height: 180px;
+    width: 240px;
+}
+
+.about-me img {
+    height: 180px;
+    width: 240px;
+}
+
+.my-work img{
+    height: 180px;
+    width: 240px;
+}
